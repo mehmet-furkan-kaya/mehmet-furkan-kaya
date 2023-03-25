@@ -37,6 +37,7 @@
 
 <br>
 
+<!--
 <div style="text-align: center;">
     <table border="3">
   <tr>
@@ -71,3 +72,18 @@
   </tr>
 </table>
 </div>
+-->
+<details>
+<summary>👨‍💻 Most Used Languages</summary>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=furkankayam&theme=darcula&line_height=40&hide=css" alt="most used languages" />
+</details>
+
+<details>
+<summary>:octocat: My GitHub Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=furkankayam&theme=darcula&show_icons=true" alt="github stats">
+</details>
+
+<details>
+<summary>:warning: My GitHub Streak</summary>
+<img src="https://streak-stats.demolab.com/?user=furkankayam&theme=darcula" alt="github streak">
+</details>
